@@ -1,0 +1,12 @@
+//
+// Created by egonr on 2/14/2023.
+//
+
+#ifndef WINCAP11_VERSION_H_IN
+#define WINCAP11_VERSION_H_IN
+
+#define wincap11_VERSION_MAJOR @wincap11_VERSION_MAJOR@
+#define wincap11_VERSION_MINOR @wincap11_VERSION_MINOR@
+#define wincap11_GIT_HASH "@GIT_HASH@"
+
+#endif //WINCAP11_VERSION_H_IN

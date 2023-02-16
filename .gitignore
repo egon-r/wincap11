@@ -1,0 +1,4 @@
+.qt/
+.idea/
+*-build-*/
+*.exe
